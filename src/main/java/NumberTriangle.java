@@ -102,6 +102,7 @@ public class NumberTriangle {
         }
         return current.getRoot();
     }
+    // forgot to make this separate issues and worked on it on the static method branch when i finished
 
     /** Read in the NumberTriangle structure from a file.
      *
